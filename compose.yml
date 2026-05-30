@@ -11,6 +11,6 @@ services:
     environment:
       - VS_WHITELIST_ENABLED=false # INOP?
       - TZ=Europe/London  # Set to your timezone
-      - VERSION=1.22.2   # Game version - works with release candidates (unstable) as well as regular releases (stable)
+      - VERSION=1.22.3   # Game version - works with release candidates (unstable) as well as regular releases (stable)
     stdin_open: true
     tty: true
