@@ -1,6 +1,6 @@
 # About
 Vintage Story Multiplayer Server Docker container. 
-![alt text](image.png)
+
 # How-to
 `docker compose pull`: Update the server image.
 
