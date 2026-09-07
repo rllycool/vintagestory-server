@@ -8,6 +8,8 @@ Vintage Story Multiplayer Server Docker container.
 
 `docker compose down`: Stop server.
 
+`docker compose ps`: Quick status of container
+
 `docker compose logs -f`: View and follow logs.
 
 # Reference
